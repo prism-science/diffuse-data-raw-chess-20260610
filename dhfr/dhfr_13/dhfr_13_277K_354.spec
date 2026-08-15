@@ -1,0 +1,1 @@
+../../.git/annex/objects/MP/1G/MD5E-s2970--d61eeb31b5e756fc0e64d01fc371a1f0.spec/MD5E-s2970--d61eeb31b5e756fc0e64d01fc371a1f0.spec
